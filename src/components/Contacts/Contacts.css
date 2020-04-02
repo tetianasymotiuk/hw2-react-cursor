@@ -1,0 +1,13 @@
+.contacts {
+    background: wheat;
+    width: 1200px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.contacts-list {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 1px;
+    margin: 1px;
+}

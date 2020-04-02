@@ -1,11 +1,13 @@
 import React from 'react';
-
 import './App.css';
+
+import Contacts from "./components/Contacts/Contacts";
+
 
 function App() {
   return (
     <div className="App">
-      <p>hw 02 react</p>
+       <Contacts />
     </div>
   );
 }

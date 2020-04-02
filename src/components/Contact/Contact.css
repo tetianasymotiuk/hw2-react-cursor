@@ -1,0 +1,19 @@
+.contact-single {
+  border: 1px solid black;
+  margin: 5px;
+  width: 300px;
+  list-style: none;
+  padding: 1px;
+  text-align: center;
+}
+
+.icon-gender {
+  font-size: 25px;
+  padding: 1px;
+}
+
+p {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  margin: 1px;
+}
